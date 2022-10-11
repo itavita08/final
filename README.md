@@ -2,7 +2,7 @@
 
 혜선 - branch, git desktop
 
-소영 - hihi
+소영
 
 명호 - test
 
