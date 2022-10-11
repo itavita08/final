@@ -1,6 +1,6 @@
 # final
 
-혜선 - branch
+혜선 - branch, git desktop
 
 소영
 
